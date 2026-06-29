@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR3ed038/jc/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之五十二脫肛門附論脫肛之證難經云虛實出焉出者為虛入者為實肛門之脫非虛無故然哉蓋實則溫溫則內氣充有氣蓄虛則寒寒則內氣餒而不能收況大腸有厚薄與肺為表裡肺藏蘊熱則閉虛則脫三因之論且婦人有此疾者產育用力過多少兒此疾皆因久利大腸虛冷所為也肛門為大腸之候大腸傷於寒利而用力努躽其氣下衝肛門脫出也用香附子荊芥等分煎湯洗之或以五倍子碾為細末放於紙上托入肛緩緩揉入若或長久男子變成腸風痔漏腸出不收至於出數寸者以五倍子朴硝等分煎湯洗之亦用木賊燒灰不令煙盡入麝香少許大便了貼少許效又有久痢臟虛皆能令人肛門突出有腸頭作癢即腹中有蟲丈夫由此酒色過度大腸者傳道之官腎者作強之官蓋腎虛而泄母氣因肺虛是以大腸氣無所主故自肛脫治法實原氣去蘊熱之劑外用前藥洗之醫治無不愈矣脫肛通治方蝟皮散治肛門脫出不收蝟皮一個罐內燒令焦黃存性磁石半兩火煅於醋內蘸淬七次辣桂三錢鱉頭一枚慢火炙令焦黃上為細末每服三錢食前米飲調下用鞋底炙熱熨掞肛上托入文蛤散治大腸虛寒肛門脫出不收或用力太過及小兒叫呼久痢後皆脫肛文蛤即五倍子不拘多少上為細末水煎汁浸洗更入白礬蛇床尤佳洗後用赤石脂為末少許摻在芭蕉葉上頻用托入或脫出有長尺許者以兩橙相併中空一尺以瓷瓶盛藥水滿與橙相平令病人仰臥所脫浸在瓶中逐日換藥水如此浸縮為度槐花散治脫肛槐花槐角各等分炒香黃上為細末用羊血蘸藥炙熱食之以酒送下縮砂湯治大腸虛而挾熱脫肛紅腫縮砂黃連木賊各等分上為細末每服二錢空心用米飲調下乳香丸治脫肛腸出乳香另研白丁香各二錢半枳殼去穰麩炒芫青去頭足糯米炒大黃蒸焙鶴蝨草炒蓽澄茄牡蠣煅各半兩上為細末粟米糊為丸如梧桐子大每服三十丸腸風臘茶清送下諸痔煎薤白湯送諸漏鐵屑煎湯下空心服磁石散治脫肛磁石半兩火煅醋淬七次上為細末每服一錢空心米湯調下香荊散治脫肛香附子荊芥穗各半兩縮砂二錢半上為細末每服三錢與煎薤白湯調服治腸頭挺出上用蛤蟆皮一片燒付患處一方瓶內燒熏治脫肛歷年不愈上用生鐵五斤水一斗煮取五升出鐵以汁洗日再無不瘥並燒礬石粉之則亦良木賊散治脫肛不熱上用木賊燒存性為末摻肛門上按之蜣螂丸治肛門癢或出膿血有蟲旁生孔竅內蜣螂七枚五月五日收去翅足炙為末新牛糞半兩肥羊肉一兩炒令香上共如膏丸如蓮子大炙令熱以新綿薄裹內下部中半日少吃飯即大便中蟲出三五度永瘥治穀道䘌赤腫又癢方上用杏仁搗作膏敷之一方熬令黃搗以綿蘸塗穀道中治肛門腫痛上用木鱉子去殼取肉四五枚研如泥安新瓦器或木盆以沸湯衝動洗了另用少許塗患處
+  hash: sha256:8b3eaff26544e00dbab04163b72df946cf151596ad47b846d95d300e50915969
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed038_jc_052-d53.h1s1}
+  - {type: 'tls:div-start', offset: 5, content: '', id: KR3ed038_jc_052-d53d2, level: 2, head_text: 脫肛門附論}
+  - {type: 'tls:head', offset: 5, content: '', id: KR3ed038_jc_052-d53.d2.h1s1}
+  - {type: 'tls:div-start', offset: 319, content: '', id: KR3ed038_jc_052-d53.d2d4, level: 3, head_text: 脫肛通治方}
+  - {type: 'tls:head', offset: 319, content: '', id: KR3ed038_jc_052-d53.d2.d4.h1s1}
+  - {type: 'tls:div-start', offset: 324, content: '', id: KR3ed038_jc_052-d53.d2.d4d2, level: 4, head_text: 蝟皮散}
+  - {type: 'tls:head', offset: 324, content: '', id: KR3ed038_jc_052-d53.d2.d4.d2.h1s1}
+  - {type: 'tls:div-end', offset: 398, content: '', id: KR3ed038_jc_052-d53.d2.d4d2}
+  - {type: 'tls:div-start', offset: 398, content: '', id: KR3ed038_jc_052-d53.d2.d4d3, level: 4, head_text: 文蛤散}
+  - {type: 'tls:head', offset: 398, content: '', id: KR3ed038_jc_052-d53.d2.d4.d3.h1s1}
+  - {type: 'tls:div-end', offset: 525, content: '', id: KR3ed038_jc_052-d53.d2.d4d3}
+  - {type: 'tls:div-start', offset: 525, content: '', id: KR3ed038_jc_052-d53.d2.d4d4, level: 4, head_text: 槐花散}
+  - {type: 'tls:head', offset: 525, content: '', id: KR3ed038_jc_052-d53.d2.d4.d4.h1s1}
+  - {type: 'tls:div-end', offset: 558, content: '', id: KR3ed038_jc_052-d53.d2.d4d4}
+  - {type: 'tls:div-start', offset: 558, content: '', id: KR3ed038_jc_052-d53.d2.d4d5, level: 4, head_text: 縮砂湯}
+  - {type: 'tls:head', offset: 558, content: '', id: KR3ed038_jc_052-d53.d2.d4.d5.h1s1}
+  - {type: 'tls:div-end', offset: 596, content: '', id: KR3ed038_jc_052-d53.d2.d4d5}
+  - {type: 'tls:div-start', offset: 596, content: '', id: KR3ed038_jc_052-d53.d2.d4d6, level: 4, head_text: 乳香丸}
+  - {type: 'tls:head', offset: 596, content: '', id: KR3ed038_jc_052-d53.d2.d4.d6.h1s1}
+  - {type: 'tls:div-end', offset: 689, content: '', id: KR3ed038_jc_052-d53.d2.d4d6}
+  - {type: 'tls:div-start', offset: 689, content: '', id: KR3ed038_jc_052-d53.d2.d4d7, level: 4, head_text: 磁石散}
+  - {type: 'tls:head', offset: 689, content: '', id: KR3ed038_jc_052-d53.d2.d4.d7.h1s1}
+  - {type: 'tls:div-end', offset: 719, content: '', id: KR3ed038_jc_052-d53.d2.d4d7}
+  - {type: 'tls:div-start', offset: 719, content: '', id: KR3ed038_jc_052-d53.d2.d4d8, level: 4, head_text: 香荊散}
+  - {type: 'tls:head', offset: 719, content: '', id: KR3ed038_jc_052-d53.d2.d4.d8.h1s1}
+  - {type: 'tls:div-end', offset: 815, content: '', id: KR3ed038_jc_052-d53.d2.d4d8}
+  - {type: 'tls:div-start', offset: 815, content: '', id: KR3ed038_jc_052-d53.d2.d4d9, level: 4, head_text: 木賊散}
+  - {type: 'tls:head', offset: 815, content: '', id: KR3ed038_jc_052-d53.d2.d4.d9.h1s1}
+  - {type: 'tls:div-end', offset: 838, content: '', id: KR3ed038_jc_052-d53.d2.d4d9}
+  - {type: 'tls:div-start', offset: 838, content: '', id: KR3ed038_jc_052-d53.d2.d4d10, level: 4, head_text: 蜣螂丸}
+  - {type: 'tls:head', offset: 838, content: '', id: KR3ed038_jc_052-d53.d2.d4.d10.h1s1}
+  - {type: 'tls:div-end', offset: 993, content: '', id: KR3ed038_jc_052-d53.d2.d4d10}
+  - {type: 'tls:div-end', offset: 993, content: '', id: KR3ed038_jc_052-d53.d2d4}
+  - {type: 'tls:div-end', offset: 993, content: '', id: KR3ed038_jc_052-d53d2}
+metadata:
+  title: 奇效良方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed038.xml
+hash: sha256:67b1001d4121dfa429842564e791d14dd54656a8daa7c4d71035d6817c85a39b
