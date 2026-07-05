@@ -306,7 +306,6 @@ markers:
   - {type: 'tls:seg', offset: 610, content: '', id: KR3ed038_jc_066-d68.d2.d9.p2s10}
   - {type: punctuation, offset: 617, content: ，, id: KR3ed038_jc_066-bkkpn110}
   - {type: 'tls:seg', offset: 617, content: '', id: KR3ed038_jc_066-d68.d2.d9.p2s11}
-  - {type: substitution, offset: 621, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 623, content: 。, id: KR3ed038_jc_066-bkkpn111}
   - {type: xml-element, offset: 623, content: '', id: KR3ed038_jc_066-d68.d2.d9p2_end, name: p, role: close, attrs: {'xml:id': KR3ed038_jc_066-d68.d2.d9p2}}
   - {type: xml-element, offset: 627, content: '', id: KR3ed038_jc_066-d68.d2.d10p2, name: p, role: open, attrs: {'xml:id': KR3ed038_jc_066-d68.d2.d10p2}}
@@ -416,7 +415,6 @@ markers:
   - {type: xml-element, offset: 923, content: '', id: KR3ed038_jc_066-d68.d2.d13p2_end, name: p, role: close, attrs: {'xml:id': KR3ed038_jc_066-d68.d2.d13p2}}
   - {type: xml-element, offset: 923, content: '', id: KR3ed038_jc_066-d68.d2.d13p4, name: p, role: open, attrs: {'xml:id': KR3ed038_jc_066-d68.d2.d13p4}}
   - {type: 'tls:seg', offset: 923, content: '', id: KR3ed038_jc_066-d68.d2.d13.p4s1}
-  - {type: substitution, offset: 926, original: 缽, replacement: 鉢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1939}}
   - {type: punctuation, offset: 932, content: ，, id: KR3ed038_jc_066-bkkpn159}
   - {type: 'tls:seg', offset: 932, content: '', id: KR3ed038_jc_066-d68.d2.d13.p4s2}
   - {type: punctuation, offset: 944, content: ，, id: KR3ed038_jc_066-bkkpn160}
@@ -454,4 +452,4 @@ markers:
   - {type: punctuation, offset: 1002, content: 。, id: KR3ed038_jc_066-bkkpn174}
   - {type: xml-element, offset: 1002, content: '', id: KR3ed038_jc_066-d68.d2.d14p4_end, name: p, role: close, attrs: {'xml:id': KR3ed038_jc_066-d68.d2.d14p4}}
   back: []
-hash: sha256:0251a23e06e8ac0c97e9935bfe7ed62d832bffca255957089b27be6903177243
+hash: sha256:995d3043224fa0811ce7f9795113edbd07687d08dcecf7789e627988e59b785c
