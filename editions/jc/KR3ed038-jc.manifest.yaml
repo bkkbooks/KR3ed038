@@ -81,14 +81,14 @@ assets:
   - {seq: 62, filename: KR3ed038_062-jc.yaml, hash: 'sha256:2fec61bf435d7405a416f2c63368d41e1ba15aabe63e36d28fd041e12da2c983'}
   - {seq: 63, filename: KR3ed038_063-jc.yaml, hash: 'sha256:c6a435985c6f35436e9222d2e1f2fae77fd3f645da64ab7496b113f9ebd549e2'}
   - {seq: 64, filename: KR3ed038_064-jc.yaml, hash: 'sha256:cad8588f3b4d556c7fdf9edcb470ae489437bd4c37af3980dc7e320d57cc6f57'}
-  - {seq: 0, filename: KR3ed038_000-jc.yaml, hash: 'sha256:47881b1a8665e06b6ec5186b91e47d6dc398e59a45b340b159f8aedfb96c47e8'}
+  - {seq: 0, filename: KR3ed038_000-jc.yaml, hash: 'sha256:ac0f180d0b94780cb4f81b34b6c45f63f2c01daa8f9017e6c08fbc3fd493c682'}
   - {seq: 65, filename: KR3ed038_065-jc.yaml, hash: 'sha256:4b6543d0944c38f1e4c3ab8d0bf30884658bd00210f4dd6ff06ef35f795ac258'}
   - {seq: 66, filename: KR3ed038_066-jc.yaml, hash: 'sha256:e4407a9e051fe0a3cc4933e437fa571ec7961011b1cd907c1d74256422704f86'}
   - {seq: 67, filename: KR3ed038_067-jc.yaml, hash: 'sha256:989ce3022697f0831b39ee69db803f503bd3087fe9e3cb85edccccd7cef76b32'}
   - {seq: 68, filename: KR3ed038_068-jc.yaml, hash: 'sha256:01440c69db3bf858a9fec641420eab5f83b0c8bb15c0822f5bd459c5320c3b02'}
   - {seq: 69, filename: KR3ed038_069-jc.yaml, hash: 'sha256:bb0c3025015288bfde1aea296796eb931f5278f984ee7f0a69a66675c41befa0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed038_000-jc.markers.yaml, hash: 'sha256:0d66cf8daf7be8c51bcd598eef5cf207f7953467731730069932e252174d6461'}
+  - {seq: 0, role: markers, filename: assets/KR3ed038_000-jc.markers.yaml, hash: 'sha256:c44505b0019d780cc9d95ba77c8b74990691e98190ee4402f459fd6060fa4afa'}
   - {seq: 1, role: markers, filename: assets/KR3ed038_001-jc.markers.yaml, hash: 'sha256:929b18304e4907f386e430b7fc1048b6d7b676fa697ef870e35d018ed9a8f43d'}
   - {seq: 2, role: markers, filename: assets/KR3ed038_002-jc.markers.yaml, hash: 'sha256:557dc88b57ae2dd8b498b1e5fa5f37de10cdc20ec4c93eed091e02597f526c45'}
   - {seq: 3, role: markers, filename: assets/KR3ed038_003-jc.markers.yaml, hash: 'sha256:7f7a36170d71f2a6e9ca257537029e0d04a836e4c13dfd42dff0f4da888e76dd'}
@@ -49193,7 +49193,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed038_jc_000-d66.h1s1
     span:
-    - front
+    - body
     - 0
     - 352
   label: 奇效良方瘡疹論序
@@ -52219,4 +52219,4 @@ table_of_contents:
   label: 牡丹散
   type: section
   level: 4
-hash: sha256:05b7a8754cc797e9e4d39d48db13db1892940ea1e5dbc222f1c1ae859e7d9f62
+hash: sha256:c1a1616f2ff038fee017807b482af9cbbdcc3f9b37f2d20a22f32b9fdd38616b
